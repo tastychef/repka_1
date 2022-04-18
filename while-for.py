@@ -14,9 +14,12 @@
 #     if counter == 10:
 #         break
 #     counter += 1
-#
+#\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 # name = "ALEX "
 # count = 0
 # for i in name:
 #     count +=1
 # print (count)
+#\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+for i in range(5):
+    print("Hello World!")
