@@ -1,4 +1,4 @@
-# for i in range(3):
-#     q = int(input())
-#     print((i+1)*q)
-    
+s = "hello"
+s.upper()
+s = s.upper()
+print(s)
