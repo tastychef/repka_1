@@ -1,4 +1,3 @@
-# for i in range(3):
-#     q = int(input())
-#     print((i+1)*q)
-    
+a = ["a", "asd"]
+s ="".join(a)
+print(s)
